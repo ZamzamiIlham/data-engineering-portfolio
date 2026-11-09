@@ -1,6 +1,8 @@
 # 🚀 Data Engineering Portfolio
 
-Selamat datang di repository portofolio Data Engineering saya. Repository ini merangkum arsitektur, pipeline data, dan solusi analitik yang telah saya rancang dan implementasikan, mencakup pemrosesan **Batch (ELT)** hingga **Real-time Streaming**.
+Selamat datang di repository portofolio Data Engineering saya. Repository ini merangkum arsitektur, pipeline data, dan solusi analitik yang telah saya rancang dan implementasikan, mencakup pemrosesan **Batch (ELT)** hingga **Real-time Streaming**. 
+
+Informasi mengenai diri saya dapat dilihat di [Ilham Zamzami](https://www.linkedin.com/in/ilham-zamzami-971631296/)
 
 ---
 
@@ -59,5 +61,5 @@ Selamat datang di repository portofolio Data Engineering saya. Repository ini me
 ---
 
 ## 🌐 Hubungi Saya
-- **LinkedIn:** [Profil LinkedIn Kamu](https://linkedin.com/in/username)
-- **Email:** emailkamu@example.com
+- **LinkedIn:** [Ilham Zamzami](https://www.linkedin.com/in/ilham-zamzami-971631296/)
+- **Email:** zamzamilham17@gmail.com
